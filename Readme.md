@@ -24,7 +24,7 @@ Each bag is composed by the following topics:
 
    * /gps/fix: sensor_msgs/NavSatFix - Swift Navigation Piksi Multi GPS position
 
-   * /gps/rtkfix: nav_msgs/Odometry - Zarco Swift Navigation Piksi Multi GPS RTK odometry
+   * /gps/rtkfix: nav_msgs/Odometry - SENSE Swift Navigation Piksi Multi GPS RTK odometry
 
    * /gps/time: sensor_msgs/TimeReference -Swift Navigation Piksi Multi GPS Time reference
 
